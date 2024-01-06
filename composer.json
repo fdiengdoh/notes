@@ -1,0 +1,21 @@
+{
+    "name": "fdiengdoh/notes",
+    "description": "Notes App .",
+    "keywords": ["notes", "prettyurl"],
+    "homepage": "http://cn.fdh.pw",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Farlando Diengdoh",
+            "email": "notes@fdiengdoh.com.com",
+            "homepage": "http://fdiengdoh.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {"Parsedown": ""}
+    },
+}
