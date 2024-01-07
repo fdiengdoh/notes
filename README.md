@@ -9,3 +9,7 @@ Well for now it is just something for me to play around with the process of maki
 ## Here I am releasing the v0.1.0 version.
 
 Hope it works
+
+### Install using composer as follows:
+
+```composer require fdiengdoh/purl:dev-main
