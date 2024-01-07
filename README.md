@@ -1,2 +1,6 @@
-# notes
-A set of classes for my testing
+# Notes
+A set of classes for making pretty url from php.
+
+## What is this exactly?
+
+Well for now it is just something for me to play around with the process of making packages available through composer. Maybe one day it would be useful to others
