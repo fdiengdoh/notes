@@ -12,4 +12,4 @@ Hope it works
 
 ### Install using composer as follows:
 
-```composer require fdiengdoh/purl:dev-main
+``` composer require fdiengdoh/purl:dev-main
