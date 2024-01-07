@@ -1,4 +1,5 @@
-# Notes
+# Pretty Url with PHP
+
 A set of classes for making pretty url from php.
 
 ## What is this exactly?
