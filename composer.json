@@ -1,7 +1,7 @@
 {
     "name": "fdiengdoh/prettyurl",
     "description": "Pretty Url Using PHP.",
-    "keywords": ["notes", "prettyurl"],
+    "keywords": ["prettyurl", "php"],
     "homepage": "http://cn.fdh.pw",
     "type": "library",
     "license": "MIT",
