@@ -10,7 +10,9 @@ Well for now it is just something for me to play around with the process of maki
 
 Hope it works
 
-### Install using composer as follows:
+### How to install?
+
+As of now this app is in pre-release mode only. you can install via composer as follows
 
 ```
 composer require fdiengdoh/purl:dev-main
