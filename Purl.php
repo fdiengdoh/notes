@@ -8,7 +8,7 @@
  * http://fdiengdoh.com
  *
  */
-namespace F;
+namespace Fdiengdoh;
 
  class PrettyUrl
 {
