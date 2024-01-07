@@ -10,7 +10,7 @@
  */
 namespace Fdiengdoh;
 
- class PrettyUrl
+ class Purl
 {
     //The array of safe pages
     var $safePages = [
