@@ -8,9 +8,9 @@
  * http://fdiengdoh.com
  *
  */
-namespace Fdiengdoh;
+namespace Fdiengdoh\Purl;
 
- class Purl
+ class PrettyUrl
 {
     //The array of safe pages
     var $safePages = [
